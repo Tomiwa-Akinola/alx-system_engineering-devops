@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777
+chmod +x add_exevute_permissions.sh
