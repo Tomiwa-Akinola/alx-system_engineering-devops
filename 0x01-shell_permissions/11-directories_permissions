@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x add_exevute_permissions.sh
+chmod 751 0x01-shell_permissions
