@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Python code to get data from an API and convert to Json"""
+""" Python script to get data from an API and convert to Json"""
 import csv
 import json
 import requests
