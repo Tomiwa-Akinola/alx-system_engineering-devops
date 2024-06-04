@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module for function that queries the 
+""" Module for function that queries the
 Reddit API recursively."""
 
 

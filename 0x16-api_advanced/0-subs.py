@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Python cript that queries subscribers on a 
+Python cript that queries subscribers on a
 given Reddit subreddit.
 """
 
